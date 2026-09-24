@@ -2,6 +2,10 @@
 
 A responsive, dependency-free planning website for a four-person 18,000-foot tandem skydive near Wisconsin in summer 2027.
 
+## Live site
+
+<https://clwx-31.github.io/drop-27/>
+
 ## Run locally
 
 Open `index.html` directly, or serve the folder:
